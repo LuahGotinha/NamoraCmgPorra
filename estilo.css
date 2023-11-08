@@ -37,11 +37,13 @@
     left: 5%;
     bottom: 40%;
     width: 100px;
+    align-items: flex-end;
 }
 
 .beijo {
     position: fixed;
     width: 150px;
-    bottom: 65%;
+    bottom: 35%;
     right: 5%;
+    align-items: flex-end;
 }
